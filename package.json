@@ -22,6 +22,7 @@
     "babel-polyfill": "^6.3.14",
     "history": "^1.13.1",
     "isomorphic-fetch": "^2.2.0",
+    "parse-json": "^2.2.0",
     "parse-link-header": "^0.4.1",
     "query-string": "^3.0.0",
     "react": "^0.14.3",
